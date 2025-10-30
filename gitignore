@@ -1,0 +1,5 @@
+xadrez
+*.o
+*.out
+a.out
+.ccls-cache/
